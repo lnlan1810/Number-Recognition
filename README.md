@@ -1,6 +1,3 @@
-Dưới đây là file `README.md` được viết lại bằng tiếng Anh, và không đề cập đến file `requirements.txt`:
-
-```markdown
 # Number Recognition using CNN and Pygame
 
 This project is a simple implementation of a Convolutional Neural Network (CNN) for recognizing handwritten digits. Users can draw digits on a Pygame interface, and the model will predict the drawn digits. The project includes training the CNN model on the MNIST dataset and using it to recognize digits drawn by the user.
