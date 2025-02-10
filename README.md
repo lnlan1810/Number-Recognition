@@ -7,7 +7,6 @@ This project is a simple implementation of a Convolutional Neural Network (CNN) 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [License](#license)
 
 ## Features
 - **CNN Model**: A Convolutional Neural Network model is used for digit recognition.
@@ -57,9 +56,3 @@ number-recognition/
 └── num.jpg                     # Example image for testing
 ```
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to contribute to the project by opening issues or submitting pull requests. Enjoy recognizing your handwritten digits!
