@@ -50,9 +50,9 @@ This project is a simple implementation of a Convolutional Neural Network (CNN) 
 number-recognition/
 │
 ├── number_recognition.py       # Main script for training and recognition
-├── cnn_model.pth               # Pre-trained model (if available)
+├── cnn_model.pth               # Pre-trained model 
 ├── README.md                   # This file
-├── data/                       # Directory for MNIST dataset (automatically downloaded)
+├── data/                       # Directory for MNIST dataset
 └── num.jpg                     # Example image for testing
 ```
 
